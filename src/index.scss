@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
 
-*{
-  backdrop-filter: blur(5px);
-}
 
 
 .irish-grover-regular {
@@ -22,7 +19,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 45.8em;
+  height: 100vh;
 }
 
 
@@ -39,3 +36,4 @@ code {
   text-align: center;
   margin-top: 20%;
 }
+
